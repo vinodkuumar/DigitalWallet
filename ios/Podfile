@@ -14,6 +14,10 @@ target 'DigitalWallet' do
 
   pod 'react-native-camera', :path => '../node_modules/react-native-camera'
 
+  pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-async-storage/async-storage'
+
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'DigitalWalletTests' do
     inherit! :complete
     # Pods for testing

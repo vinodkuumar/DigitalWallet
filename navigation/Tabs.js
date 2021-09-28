@@ -10,6 +10,7 @@ import {isIphoneX} from 'react-native-iphone-x-helper';
 import {Home, Scan} from '../screens';
 import {COLORS, icons} from '../constants';
 
+
 const Tab = createBottomTabNavigator();
 
 const TabBarCustomButton = ({
@@ -167,6 +168,7 @@ const Tabs = () => {
           tabBarButton: props => <TabBarCustomButton {...props} />,
         }}
       />
+      
     </Tab.Navigator>
   );
 };

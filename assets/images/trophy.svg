@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+    <defs>
+        <linearGradient id="prefix__a" x1="-169.985%" x2="100%" y1="56.195%" y2="50%">
+            <stop offset="0%" stop-color="#FED275"/>
+            <stop offset="100%" stop-color="#F4A13C"/>
+        </linearGradient>
+        <linearGradient id="prefix__b" x1="-169.985%" x2="100%" y1="56.195%" y2="50%">
+            <stop offset="0%" stop-color="#FED275"/>
+            <stop offset="100%" stop-color="#FFB152"/>
+        </linearGradient>
+        <linearGradient id="prefix__c" x1="0%" x2="100%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#FED275"/>
+            <stop offset="100%" stop-color="#FFB152"/>
+        </linearGradient>
+        <linearGradient id="prefix__d" x1="0%" x2="100%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#FF7600"/>
+            <stop offset="100%" stop-color="#FF8C00"/>
+        </linearGradient>
+        <linearGradient id="prefix__e" x1="-169.985%" x2="100%" y1="60.363%" y2="50%">
+            <stop offset="0%" stop-color="#FED275"/>
+            <stop offset="100%" stop-color="#FFB152"/>
+        </linearGradient>
+        <linearGradient id="prefix__f" x1="0%" x2="100%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#FED275"/>
+            <stop offset="100%" stop-color="#FFB152"/>
+        </linearGradient>
+        <linearGradient id="prefix__g" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#333"/>
+            <stop offset="100%" stop-color="#4C4C4C"/>
+        </linearGradient>
+        <linearGradient id="prefix__h" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#333"/>
+            <stop offset="100%" stop-color="#4C4C4C"/>
+        </linearGradient>
+        <linearGradient id="prefix__i" x1="0%" x2="100%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#FF7600"/>
+            <stop offset="100%" stop-color="#FF8C00"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#prefix__a)" d="M61.303 7.38H33.21c-1.359 0-2.46 1.101-2.46 2.46V28.7c0 1.359 1.101 2.46 2.46 2.46h24.35c1.542 0 2.876-1.075 3.204-2.583l3.744-17.22c.05-.23.075-.463.075-.697 0-1.811-1.469-3.28-3.28-3.28zm-2.036 4.92l-3.03 13.94H35.67V12.3h23.597z" transform="translate(4.1 5.74)"/>
+        <path fill="url(#prefix__b)" d="M30.553 7.38H2.46C1.101 7.38 0 8.481 0 9.84V28.7c0 1.359 1.101 2.46 2.46 2.46h24.35c1.542 0 2.876-1.075 3.204-2.583l3.744-17.22c.05-.23.075-.463.075-.697 0-1.811-1.469-3.28-3.28-3.28zm-2.036 4.92l-3.03 13.94H4.92V12.3h23.597z" transform="translate(4.1 5.74) matrix(-1 0 0 1 33.833 0)"/>
+        <path fill="url(#prefix__c)" d="M11.48 0H53.3c.906 0 1.64.734 1.64 1.64v11.89c0 8.573-3.808 16.703-10.394 22.192L35.26 43.46h-5.74l-9.286-7.738C13.648 30.233 9.84 22.103 9.84 13.53V1.64c0-.906.734-1.64 1.64-1.64z" transform="translate(4.1 5.74)"/>
+        <path fill="url(#prefix__d)" d="M53.3 0c.906 0 1.64.734 1.64 1.64l-.001 5.739H9.84V1.64c0-.906.734-1.64 1.64-1.64H53.3z" opacity=".5" transform="translate(4.1 5.74)"/>
+        <path fill="url(#prefix__e)" d="M29.52 43.46L35.26 43.46 36.9 51.66 27.88 51.66z" transform="translate(4.1 5.74)"/>
+        <path fill="url(#prefix__f)" d="M35.26 43.46l.327 1.639h-6.395l.328-1.639h5.74z" style="mix-blend-mode:multiply" opacity=".5" transform="translate(4.1 5.74)"/>
+        <path fill="url(#prefix__g)" d="M23.78 51.66H41c1.359 0 2.46 1.101 2.46 2.46v2.46H21.32v-2.46c0-1.359 1.101-2.46 2.46-2.46z" transform="translate(4.1 5.74)"/>
+        <path fill="url(#prefix__h)" d="M17.22 56.58h30.34c1.359 0 2.46 1.101 2.46 2.46v1.64c0 .453-.367.82-.82.82H15.58c-.453 0-.82-.367-.82-.82v-1.64c0-1.359 1.101-2.46 2.46-2.46z" transform="translate(4.1 5.74)"/>
+        <path fill="url(#prefix__i)" d="M32.418 29.31l-4.413 2.321c-.401.21-.897.057-1.108-.344-.083-.16-.112-.343-.082-.52l.843-4.915c.046-.266-.043-.537-.236-.726l-3.57-3.48c-.325-.316-.331-.836-.015-1.16.126-.13.29-.213.469-.239l4.934-.717c.268-.039.498-.207.618-.449l2.207-4.471c.2-.406.692-.573 1.098-.372.162.08.293.21.372.372l2.207 4.471c.12.242.35.41.618.449l4.934.717c.448.065.759.481.694.93-.026.178-.11.343-.24.469l-3.57 3.48c-.193.189-.282.46-.236.726l.843 4.915c.076.446-.223.87-.67.946-.177.03-.36.002-.52-.082l-4.413-2.32c-.24-.126-.525-.126-.764 0z" opacity=".5" transform="translate(4.1 5.74)"/>
+    </g>
+</svg>
